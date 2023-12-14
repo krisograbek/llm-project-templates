@@ -9,12 +9,12 @@ A series of boilerplates to help you kick-start your LLM projects.
 ### Steps to run the application
 **1. Clone the repository to your local machine:**
 ```shell
-git clone https://github.com/krisograbek/openai-base.git
+git clone https://github.com/krisograbek/llm-project-templates.git
 ```
 
 **2. Navigate to the project directory:**
 ```shell
-cd openai-base
+cd llm-project-templates
 ```
 
 **3. Create a virtual environment and activate it:**
